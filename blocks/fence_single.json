@@ -1,0 +1,18 @@
+{
+    "texture": "fence",
+    "material": "stone",
+    "model": "custom",
+    "rotation": "pane",
+    "light-passing": true,
+    "sky-light-passing": true,
+    "script-name": "fence",
+    "hidden": true,
+    "picking-item": "fences:fence.item",
+    "model-primitives": {
+        "aabbs": [
+            [0.35, 0, 0.35, 0.3, 1, 0.3, "fence"],
+            [0.32, 0.4, 0.4, 0.68, 0.2, 0.2, "fence"],
+            [0.32, 0.75, 0.4, 0.68, 0.2, 0.2, "fence"]
+        ]
+    }
+}

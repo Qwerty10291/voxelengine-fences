@@ -1,0 +1,11 @@
+{
+  "blocks": [
+    "fence",
+    "fence_single",
+    "fence_double",
+    "fence_tripple",
+    "fence_corner",
+    "fence_four"
+  ],
+  "items": []
+}

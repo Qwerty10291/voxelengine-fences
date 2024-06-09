@@ -1,0 +1,9 @@
+{
+    "texture": "fence",
+    "material": "stone",
+    "model": "aabb",
+    "hitbox": [0.35, 0, 0.35, 0.3, 1, 0.3],
+    "rotation": "pane",
+    "light-passing": true,
+    "sky-light-passing": true
+}
